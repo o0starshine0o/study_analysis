@@ -133,3 +133,4 @@ dmypy.json
 /test.csv
 /train.csv
 /html/
+*.shtml
